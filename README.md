@@ -1,5 +1,11 @@
 # vue3-disk
 
+## vue3
+```
+npm install -g @vue/cli
+vue upgrade --next
+```
+
 ## Project setup
 ```
 npm install
